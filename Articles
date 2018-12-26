@@ -6,9 +6,10 @@ https://towardsdatascience.com/decision-tree-classification-of-diabetes-among-th
 https://medium.com/datadriveninvestor/classification-using-the-tree-based-method-in-r-17e2e873c4b5
 ##
 
-Animating regresion models 
+Interactive models
 https://towardsdatascience.com/animating-regression-models-in-r-using-broom-and-ggplot2-da798e6638be
 ##
+https://medium.com/datadriveninvestor/interactive-time-series-plots-in-r-bceff3a7bb04
 
 Model selection
 https://medium.com/@peter.nistrup/model-selection-101-using-r-c8437b5f9f99
@@ -27,3 +28,8 @@ https://towardsdatascience.com/using-python-in-power-bi-ee95a6b71443
 Cluster analysis
 https://medium.com/datadriveninvestor/a-simple-exercise-with-cluster-analysis-using-the-factoextra-r-package-7fde8433072f
 ##
+
+Recommender systems
+https://medium.com/@actsusanli/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b
+##
+https://towardsdatascience.com/how-to-build-a-movie-recommender-system-in-python-using-lightfm-8fa49d7cbe3b
